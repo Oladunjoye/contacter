@@ -11,7 +11,7 @@
     "@deveodk/vue-toastr": "^1.0.4",
     "bootstrap": "^4.3.1",
     "core-js": "^2.6.5",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "material-design-icons-iconfont": "^5.0.1",
     "mdbvue": "^5.5.1",
     "popper.js": "^1.15.0",
